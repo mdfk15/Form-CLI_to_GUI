@@ -7,7 +7,8 @@ Program to count courses per students
   - Enter student and courses in list
   - Option menu
   - Option loop until "exit" option
-![First step Imge](resources/stp1.png)
+  
+![Desktop Imge](resources/stp1.png)
 
 ## Step 2
 Modification DB & add 3rd option.
@@ -15,4 +16,4 @@ Modification DB & add 3rd option.
     - key: student name
     - value: courses number
   - 3rd option to single search
-![First step Imge](resources/stp2.png)
+![Second step Imge](resources/stp2.png)
