@@ -8,7 +8,7 @@ Program to count courses per students
   - Option menu
   - Option loop until "exit" option
   
-![Desktop Imge](resources/stp1.png)
+![First step Imge](resources/stp1.png)
 
 ## Step 2
 Modification DB & add 3rd option.
